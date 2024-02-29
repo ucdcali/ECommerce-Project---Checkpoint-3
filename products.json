@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Free Dress Pass",
+    "description": "Sweat pants? Yes. College hoodies for juniors? Yes.",
+    "price": 5,
+    "stock": 10
+  },
+  {
+    "name": "ASB President for a Day",
+    "description": "Feel the power, if only for a day.",
+    "price": 150,
+    "currentPrice": 100,
+    "stock": 2,
+    "image": "freedress.webp"
+  },
+  {
+    "name": "Cut the Commons Pass",
+    "description": "Westridge marches on its stomach.",
+    "price": 2,
+    "stock": 100
+  },
+  {
+    "name": "Mr. Baldwin for a Day",
+    "description": "With great power comes great responsibility.",
+    "price": 1000,
+    "currentPrice": 100,
+    "stock": 1
+  },
+  {
+    "name": "Excused Absense Pass",
+    "description": "Every day is senior ditch day!",
+    "price": 50,
+    "stock": 15
+  }
+]
